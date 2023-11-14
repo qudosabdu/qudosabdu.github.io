@@ -19,10 +19,10 @@ photo: /assets/jpg/photo.png
 # social media links
 
 social:
-  facebook: https://www.facebook.com/profile.php?id=100007948066129
-  github: https://github.com/qudosabdu
-  linkedin: https://www.linkedin.com/in/abdul-qudoos-pk
-  twitter: https://twitter.com/abdulqudos00
+  facebook: profile.php?id=100007948066129
+  github: qudosabdu
+  linkedin: abdul-qudoos-pk
+  twitter: abdulqudos00
 
 # build settings
 
