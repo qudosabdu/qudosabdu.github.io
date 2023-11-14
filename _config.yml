@@ -1,30 +1,28 @@
 # site settings
 
-title: cvless
-description: Jekyll theme for a beautiful online CV
-taglong: Jekyll theme for a beautiful online CV
-tagshort: Jekyll theme
-url: https://cvless.netlify.app
+title: Abdul Qudoos | web developer
+description: Porfolio site and blog for Abdul Qudoos
+taglong: Porfolio site and blog for Abdul Qudoos
+tagshort: Abdul Qudoos site
+url: https://qudosabdu.github.io
 baseurl: ""
 permalink: pretty
-repo: https://github.com/username/username.github.io
+repo: https://github.dev/qudosabdu/qudosabdu.github.io
 
 # author settings
 
 author:
-  name: Place Holder
-  email: username@domain.com
-photo: /assets/jpg/photo.jpg
+  name: Abdul Qudoos MLH
+  email: abdulqudoospk737@gmail.com
+photo: /assets/jpg/photo.png
 
 # social media links
 
 social:
-  facebook: username
-  github: username
-  instagram: username
-  linkedin: username
-  stackoverflow: 0000000/username
-  twitter: username
+  facebook: https://www.facebook.com/profile.php?id=100007948066129
+  github: https://github.com/qudosabdu
+  linkedin: https://www.linkedin.com/in/abdul-qudoos-pk
+  twitter: https://twitter.com/abdulqudos00
 
 # build settings
 
