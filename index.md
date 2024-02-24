@@ -15,7 +15,7 @@ I am also a MERN (MongoDB, Express.js, React.js, Node.js) stack developer with h
 
 Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 
-This is the home page where you can find a brief introduction about me. If you are interested in more details, you can view my [full CV]((https://qudosabdu.github.io/cv.md) or download a [print version](https://qudosabdu.github.io/cv.pdf). Explore the [blog section]((https://qudosabdu.github.io/posts.md) for the latest updates and insights. Feel free to navigate through the menu to discover more about my academic and project experiences.
+This is the home page where you can find a brief introduction about me. If you are interested in more details, you can view my [full CV](https://qudosabdu.github.io/cv.md) or download a [print version](https://qudosabdu.github.io/cv.pdf). Explore the [blog section](https://qudosabdu.github.io/posts.md) for the latest updates and insights. Feel free to navigate through the menu to discover more about my academic and project experiences.
 
 ## Contact Information
 
