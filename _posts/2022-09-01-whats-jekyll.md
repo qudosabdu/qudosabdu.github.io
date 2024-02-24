@@ -1,7 +1,7 @@
 ---
 layout: post
-title: The Marvels of AI: A Journey into the Future
-lead: Exploring the fascinating world of AI and its impact on our lives.
+title: Future of AI
+lead: A very quick guide.
 ---
 
 The Marvels of Artificial Intelligence: A Journey into the Future
