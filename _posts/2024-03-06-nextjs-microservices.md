@@ -7,7 +7,7 @@ lead: A very quick guide.
 
 # Exploring Microservices Architecture with Latest Next.js: Building Scalable and Maintainable Applications
 
-By Abdul Qudoos [GitHub](https://github.com/kaboussi) | Portfolio: [abdudev.study](https://abdudev.study)
+By Abdul Qudoos [GitHub](https://github.com/qudosabdu) | Portfolio: [abdudev.study](https://abdudev.study)
 
 In today's rapidly evolving software landscape, building applications that are scalable, maintainable, and resilient is crucial. This is where microservices architecture comes into play. By breaking down monolithic applications into smaller, independent services, microservices architecture offers numerous benefits, including:
 
@@ -39,6 +39,7 @@ export default function handler(req, res) {
   // Handle API logic for 'myservice'
   res.status(200).json({ data: 'Microservice response' });
 }
+
 
 ## Communication and Integration
 
