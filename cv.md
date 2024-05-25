@@ -49,8 +49,17 @@ Highly motivated and ambitious Computer Systems Engineering student seeking oppo
 - **Description:** Created an application to store data about fees, student records, search, and display class records.
 - **Leadership:** Led a team of 2 individuals.
 
-### Project #03: React JS (E-commerce Website)
+### Project #03: [React JS (E-commerce Website)](http://link-to-your-project.com)
 - **Description:** Developed an online shopping website for food products, clothes, books, etc.
+
+### Project #04: [Gallery App](http://link-to-your-gallery-app.com)
+- **Description:** Developed a gallery app where users can upload images, delete, edit, create playlists, and add favorites. The app was developed using Next.js 14.
+
+### Project #05: [CRUD App with React, Express, and MongoDB](http://link-to-your-crud-app.com)
+- **Description:** Created a CRUD application for managing a collection of items using React for the frontend, Express for the backend, and MongoDB for the database. Implemented features for Create, Read, Update, and Delete operations.
+
+### Project #06: [Movie Web Application with IMDb API](http://link-to-your-movie-web.com)
+- **Description:** Developed a movie web application using the IMDb API to fetch and display information about movies. Users can search for movies, view details such as ratings, cast, and synopsis, and explore various genres.
 
 ## Skills and Certifications
 
