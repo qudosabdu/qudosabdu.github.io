@@ -1,9 +1,9 @@
 # site settings
 
 title: Abdul Qudoos | web developer
-description: Porfolio site and blog for Abdul Qudoos
-taglong: Porfolio site and blog of Abdul Qudoos
-tagshort: Abdul Qudoos site
+description: Portfolio and blog showcasing the work of Abdul Qudoos, a web developer.
+taglong: Portfolio and blog of Abdul Qudoos, highlighting web development projects and expertise.
+tagshort: Abdul Qudoos | Portfolio and Blog
 url: https://qudosabdu.github.io
 baseurl: ""
 permalink: pretty
@@ -12,7 +12,7 @@ repo: https://github.dev/qudosabdu/qudosabdu.github.io
 # author settings
 
 author:
-  name: Abdul Qudoos MLH
+  name: Abdul Qudoos
   email: abdulqudoospk737@gmail.com
 photo: /assets/jpg/photo.png
 
@@ -57,3 +57,10 @@ pagination:
   sort_reverse: true
   permalink: /:num/
   title: ":title &middot; Page :num"
+
+# navigation
+navigation:
+  - name: "Home"
+    link: "/"
+  - name: "Projects"
+    link: "/projects/"
