@@ -34,6 +34,8 @@ permalink: /projects/
 ### Project #08: [Business Website with Next.js](https://next-level-five.vercel.app/)
 - **Description:** Designed and developed a business website using Next.js, providing a modern and responsive online presence for the company. Implemented features such as dynamic routing, server-side rendering, and optimized performance to enhance user experience and accessibility.
 
+### Project #09: [To-Do App with React.js and Redux Toolkit](https://react-todo-app-mauve-seven.vercel.app/)
+- **Description:** Developed a To-Do application using React.js and Redux Toolkit for state management. The app allows users to add, edit, delete, and mark tasks as completed, providing a user-friendly interface and seamless task management experience.
 
 
 

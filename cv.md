@@ -49,25 +49,40 @@ Highly motivated and ambitious Computer Systems Engineering student seeking oppo
 - **Description:** Created an application to store data about fees, student records, search, and display class records.
 - **Leadership:** Led a team of 2 individuals.
 
-### Project #03: [React JS (E-commerce Website)](http://link-to-your-project.com)
+### Professional Experience
+
+#### Frontend Intern at [360xpertsolutions](https://360xpertsolutions.com/) - [FEB-2024] to [PRESENT]
+- Contributed to dynamic and responsive web applications using the Next.js framework, leveraging various UI libraries such as Material-UI, Ant Design, and Tailwind CSS to create user-friendly interfaces.
+- Collaborated with the development team to enhance user experiences by implementing new features, optimizing performance, and ensuring cross-browser compatibility.
+- Managed application state with Redux and Context API, and integrated front-end components with backend services using PostgreSQL for efficient data management.
+- Used version control systems like Git to manage and track code changes.
+
+## Personal Projects
+
+### Project #01: [React JS (E-commerce Website)](https://github.com/qudosabdu/mern-commerce)
 - **Description:** Developed an online shopping website for food products, clothes, books, etc.
 
-### Project #04: [Gallery App](http://link-to-your-gallery-app.com)
+### Project #02: [Gallery App](https://gallery-app-seven-ruddy.vercel.app/)
 - **Description:** Developed a gallery app where users can upload images, delete, edit, create playlists, and add favorites. The app was developed using Next.js 14.
 
-### Project #05: [CRUD App with React, Express, and MongoDB](http://link-to-your-crud-app.com)
+### Project #03: [CRUD App with React, Express, and MongoDB](http://link-to-your-crud-app.com)
 - **Description:** Created a CRUD application for managing a collection of items using React for the frontend, Express for the backend, and MongoDB for the database. Implemented features for Create, Read, Update, and Delete operations.
 
-### Project #06: [Movie Web Application with IMDb API](http://link-to-your-movie-web.com)
+### Project #04: [Movie Web Application with IMDb API](https://movie-box-be-task-2.vercel.app/)
 - **Description:** Developed a movie web application using the IMDb API to fetch and display information about movies. Users can search for movies, view details such as ratings, cast, and synopsis, and explore various genres.
 
-## Skills and Certifications
+For more personal projects, please click on [More personal projects](https://abdudev.study/projects/).
+
+## Skills
 
 - **Programming Languages:** JavaScript, Java (OOP), Python
 - **Web Development:** HTML, CSS, Bootstrap, Tailwind CSS, JavaScript, ReactJS, NextJs, NodeJS, ExpressJs
 - **Version Control:** Git, GitHub
-- **Database:** DBMS, MySQL, NoSQL (MongoDB)
-- **Certifications:** The Complete Web Developer Course (Udemy 2023), Python Programming for Everybody (Coursera 2022)
+- **Database:** DBMS,PostgreSQL, MySQL, NoSQL (MongoDB)
+
+## Certifications
+
+- **Certifications:** The Complete Web Developer Course (Udemy 2024), Python Programming for Everybody (Coursera 2023)
 
 ## Additional
 
