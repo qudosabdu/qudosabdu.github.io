@@ -40,18 +40,16 @@ Highly motivated and ambitious Computer Systems Engineering student seeking oppo
 ## Academic Experience
 
 ### Project #01: JAVA (Blood Management System)
-- **Location:** Karachi, Pakistan
 - **Description:** Developed a web application for blood management, allowing people to search for blood online.
 - **Teamwork:** Coordinated with a team of 2 members.
 
 ### Project #02: C++ (Student Report Card System)
-- **Location:** Karachi, Pakistan
 - **Description:** Created an application to store data about fees, student records, search, and display class records.
 - **Leadership:** Led a team of 2 individuals.
 
-### Professional Experience
+## Professional Experience
 
-#### Frontend Intern at [360xpertsolutions](https://360xpertsolutions.com/) - [FEB-2024] to [PRESENT]
+### Frontend Intern at [360xpertsolutions](https://360xpertsolutions.com/) - FEB-2024 to PRESENT
 - Contributed to dynamic and responsive web applications using the Next.js framework, leveraging various UI libraries such as Material-UI, Ant Design, and Tailwind CSS to create user-friendly interfaces.
 - Collaborated with the development team to enhance user experiences by implementing new features, optimizing performance, and ensuring cross-browser compatibility.
 - Managed application state with Redux and Context API, and integrated front-end components with backend services using PostgreSQL for efficient data management.
