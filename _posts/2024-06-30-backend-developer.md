@@ -1,9 +1,8 @@
 ---
-layout: page
+layout: post
 title: A Backend Developer Journey
-permalink: /projects/
+lead: my backend development skills 
 ---
-
 
 # A Backend Developer Journey: Node.js and Express.js
 
