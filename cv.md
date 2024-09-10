@@ -1,16 +1,16 @@
 ---
 layout: cv
-title: Abdul Qudoos's CV
+title: Abdul Qudoos CV
 ---
 
 # Curriculum Vitæ
 
 - **Name:** Abdul Qudoos
-- **Age:** 22
+- **Age:** 23
 - **Phone:** +92-3329375723
 - **Email:** abdulquoospk737@gmail.com
-- **LinkedIn:** [LinkedIn Profile](LinkedIn Link)
-- **GitHub:** [GitHub Profile](GitHub Link)
+- **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/abdul-qudoos-pk/)
+- **GitHub:** [GitHub Profile](https://github.com/qudosabdu/)
 
 ## Objective
 
@@ -49,7 +49,14 @@ Highly motivated and ambitious Computer Systems Engineering student seeking oppo
 
 ## Professional Experience
 
-### Frontend Intern at [360xpertsolutions](https://360xpertsolutions.com/) - FEB-2024 to PRESENT
+### Frontend Developer Intern at [Tekrevol](https://www.tekrevol.com/) - August-2024 to Present
+- Developed and maintained responsive web applications using React.js, implementing UI libraries like Ant Design and Tailwind CSS for intuitive and dynamic user experiences.
+- Worked closely with the development team to add new features, optimize performance, and ensure cross-browser compatibility across various devices.
+- Integrated APIs for smooth interaction between front-end components and back-end services, ensuring efficient data processing and seamless user flows.
+- Styled components with SCSS for modular, scalable design, alongside Tailwind CSS for rapid and flexible UI development.
+- Utilized Git and Bitbucket for version control, managing repositories, tracking changes, and collaborating effectively with the team.
+
+### Frontend Intern at [360xpertsolutions](https://360xpertsolutions.com/) - FEB-2024 to Jub-2024
 - Contributed to dynamic and responsive web applications using the Next.js framework, leveraging various UI libraries such as Material-UI, Ant Design, and Tailwind CSS to create user-friendly interfaces.
 - Collaborated with the development team to enhance user experiences by implementing new features, optimizing performance, and ensuring cross-browser compatibility.
 - Managed application state with Redux and Context API, and integrated front-end components with backend services using PostgreSQL for efficient data management.
