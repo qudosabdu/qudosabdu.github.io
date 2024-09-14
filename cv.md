@@ -5,91 +5,70 @@ title: Abdul Qudoos CV
 
 # Curriculum Vitæ
 
-- **Name:** Abdul Qudoos
-- **Age:** 23
-- **Phone:** +92-3329375723
-- **Email:** abdulquoospk737@gmail.com
-- **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/abdul-qudoos-pk/)
-- **GitHub:** [GitHub Profile](https://github.com/qudosabdu/)
+# Abdul Qudoos
+
+**Phone:** +92-3329375723 • **Email:** abdulqudoospk737@gmail.com • [LinkedIn](https://www.linkedin.com/in/abdul-qudoos-pk/) • [GitHub](https://github.com/qudosabdu) • [Portfolio](https://abdudev.study/)
 
 ## Objective
 
-Highly motivated and ambitious Computer Systems Engineering student seeking opportunities to apply my technical skills and knowledge in software development. Eager to contribute to innovative projects while further enhancing my expertise in programming languages and web development.
+A highly motivated and ambitious Computer Systems Engineering graduate with hands-on experience in software development and DevOps tools. Seeking opportunities to apply my skills in web development, programming, and modern infrastructure technologies while contributing to innovative projects and dynamic teams.
 
 ## Education
 
-### DAWOOD UNIVERSITY OF ENGINEERING AND TECHNOLOGY, Karachi, Pakistan
-- **Bachelor of Engineering (BE) in Computer System Engineering**
-- **Year:** 2020 – 2024
+**DAWOOD UNIVERSITY OF ENGINEERING AND TECHNOLOGY**, Karachi, Pakistan  
+*Bachelor of Engineering (BE) - Computer System Engineering*  
+2020 – August 2024
 
-### OXFORD SCIENCE SCHOOL AND COLLEGE, Karak, Pakistan
-- **Pre-Engineering**
-- **Year:** 2016 – 2018
+**OXFORD SCIENCE SCHOOL AND COLLEGE**, Karak, Pakistan  
+*Pre-Engineering*  
+2016 – 2018
 
 ## Academic Coursework
 
-- Introduction to C++
-- Java (Object-Oriented Programming)
-- Data Structures and Algorithms
-- Computer Architecture
-- Database Management Systems (DBMS)
-- Web Engineering
-- Data Communication
+- Introduction to C++  
+- Java (OOP)  
+- Data Structures and Algorithms  
+- Computer Architecture  
+- Database Management Systems (DBMS)  
+- Web Engineering  
+- Data Communication  
 - Operating System
 
-## Academic Experience
+## Final Year Project
 
-### Project #01: JAVA (Blood Management System)
-- **Description:** Developed a web application for blood management, allowing people to search for blood online.
-- **Teamwork:** Coordinated with a team of 2 members.
+### Deep Learning Method for Cardiovascular Disease Prediction using CNN
 
-### Project #02: C++ (Student Report Card System)
-- **Description:** Created an application to store data about fees, student records, search, and display class records.
-- **Leadership:** Led a team of 2 individuals.
+- **Application:** Developed a deep learning model trained on data from over 70,000 individuals to predict cardiovascular disease with 70% accuracy, integrated with a mobile app for user data input and predictions.  
+- **Teamwork:** Collaborated with a team to build the model. My role focused on developing the mobile application using React Native and connecting it to MongoDB for efficient data handling.
 
-## Professional Experience
+## Work Experience
 
-### Frontend Developer Intern at [Tekrevol](https://www.tekrevol.com/) - August-2024 to Present
-- Developed and maintained responsive web applications using React.js, implementing UI libraries like Ant Design and Tailwind CSS for intuitive and dynamic user experiences.
-- Worked closely with the development team to add new features, optimize performance, and ensure cross-browser compatibility across various devices.
-- Integrated APIs for smooth interaction between front-end components and back-end services, ensuring efficient data processing and seamless user flows.
-- Styled components with SCSS for modular, scalable design, alongside Tailwind CSS for rapid and flexible UI development.
-- Utilized Git and Bitbucket for version control, managing repositories, tracking changes, and collaborating effectively with the team.
+### Frontend Developer Intern at [Tekrevol](https://www.tekrevol.com/) - August 2024 to Present  
+- Developed and maintained responsive web applications using React.js and Ant Design.
+- Collaborated with cross-functional teams to implement new features, ensure mobile responsiveness, and integrate APIs.
+- Styled components using SCSS for modular design and managed code with Git for version control and collaboration.
 
-### Frontend Intern at [360xpertsolutions](https://360xpertsolutions.com/) - FEB-2024 to Jub-2024
-- Contributed to dynamic and responsive web applications using the Next.js framework, leveraging various UI libraries such as Material-UI, Ant Design, and Tailwind CSS to create user-friendly interfaces.
-- Collaborated with the development team to enhance user experiences by implementing new features, optimizing performance, and ensuring cross-browser compatibility.
-- Managed application state with Redux and Context API, and integrated front-end components with backend services using PostgreSQL for efficient data management.
-- Used version control systems like Git to manage and track code changes.
-
-## Personal Projects
-
-### Project #01: [React JS (E-commerce Website)](https://github.com/qudosabdu/mern-commerce)
-- **Description:** Developed an online shopping website for food products, clothes, books, etc.
-
-### Project #02: [Gallery App](https://gallery-app-seven-ruddy.vercel.app/)
-- **Description:** Developed a gallery app where users can upload images, delete, edit, create playlists, and add favorites. The app was developed using Next.js 14.
-
-### Project #03: [CRUD App with React, Express, and MongoDB](http://link-to-your-crud-app.com)
-- **Description:** Created a CRUD application for managing a collection of items using React for the frontend, Express for the backend, and MongoDB for the database. Implemented features for Create, Read, Update, and Delete operations.
-
-### Project #04: [Movie Web Application with IMDb API](https://movie-box-be-task-2.vercel.app/)
-- **Description:** Developed a movie web application using the IMDb API to fetch and display information about movies. Users can search for movies, view details such as ratings, cast, and synopsis, and explore various genres.
-
-For more personal projects, please click on [More personal projects](https://abdudev.study/projects/).
+### Frontend Intern at [360xpertsolutions](https://360xpertsolutions.com/) - Feb 2024 to July 2024  
+- Contributed to responsive web applications using Next.js and UI libraries like Material-UI and Tailwind CSS.
+- Managed application state with Redux Toolkit and integrated front-end components with backend services using PostgreSQL.
 
 ## Skills
 
-- **Programming Languages:** JavaScript, Java (OOP), Python
-- **Web Development:** HTML, CSS, Bootstrap, Tailwind CSS, JavaScript, ReactJS, NextJs, NodeJS, ExpressJs
-- **Version Control:** Git, GitHub
-- **Database:** DBMS,PostgreSQL, MySQL, NoSQL (MongoDB)
+- **Programming Languages:** JavaScript, Python  
+- **Frontend Development:** HTML, CSS, Bootstrap, Tailwind CSS, JavaScript, ReactJS, NextJs  
+- **Backend Development:** Node.js, Express.js, FastAPI  
+- **Version Control & Database:** Git, GitHub, Bitbucket, PostgreSQL, NoSQL (MongoDB)  
+- **DevOps Tools:** Linux, Docker, Jenkins, Ansible
 
 ## Certifications
 
-- **Certifications:** The Complete Web Developer Course (Udemy 2024), Python Programming for Everybody (Coursera 2023)
+- **Meta Front-End Developer (Coursera 2024)**  
+- **Python Programming for Everybody (Coursera 2023)**
 
-## Additional
+## Additional Information
 
-- **Interests:** Photography, Visiting, Playing football.
-- **Languages:** Urdu, English, Pashto
+- **Languages:** Urdu, English, Pashto  
+- **Interests:** Photography, Traveling, Playing football
+
+---
+
