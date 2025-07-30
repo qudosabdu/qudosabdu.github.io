@@ -43,14 +43,26 @@ A highly motivated and ambitious Computer Systems Engineering graduate with hand
 
 ## Work Experience
 
-### Frontend Developer Intern at [Tekrevol](https://www.tekrevol.com/) - August 2024 to Present  
-- Developed and maintained responsive web applications using React.js and Ant Design.
-- Collaborated with cross-functional teams to implement new features, ensure mobile responsiveness, and integrate APIs.
-- Styled components using SCSS for modular design and managed code with Git for version control and collaboration.
+### MERN Stack Developer Intern at [InfinityXDynamics](https://infinityxdynamics.com/)  — Jun 2025 to Present  
+- Developed responsive web apps using **React.js**, with **Three.js** integration for interactive 3D modeling and visualizations.  
+- Styled modular UI components using **ShadCN** and **Tailwind CSS**, ensuring mobile-first responsiveness.  
+- Built RESTful APIs using **Node.js**, **Express.js**, and connected to **MongoDB**.  
+- Used **Git**, **GitHub** for version control and task tracking.
 
-### Frontend Intern at [360xpertsolutions](https://360xpertsolutions.com/) - Feb 2024 to July 2024  
-- Contributed to responsive web applications using Next.js and UI libraries like Material-UI and Tailwind CSS.
-- Managed application state with Redux Toolkit and integrated front-end components with backend services using PostgreSQL.
+### Full Stack Developer (Contract) — Apr 2025 to Jun 2025  
+- Built a **Learning Management System (LMS)** from scratch using the **MERN** stack.  
+- Developed a responsive frontend with **React.js** and implemented backend APIs using **Node.js**, **Express.js**, and **MongoDB**.  
+- Integrated frontend with backend to implement user roles, class and section management, subject-teacher assignments, student performance tracking, and assignment features.
+
+### Frontend Developer Intern at [Tekrevol](https://www.tekrevol.com/) — Aug 2024 to Present  
+- Developed and maintained responsive web applications using **React.js** and **Ant Design**.  
+- Built mobile-first features and styled reusable UI components using **SCSS**.  
+- Managed version control using **Git**, following Agile workflows for consistent feature delivery.
+
+### Frontend Intern at [360xpertsolutions](https://360xpertsolutions.com/) — Feb 2024 to Jul 2024  
+- Contributed to responsive web apps using **Next.js**, **Material-UI**, and **Tailwind CSS**.  
+- Managed application state with **Redux Toolkit** and integrated front-end components with backend services using **PostgreSQL**.
+
 
 ## Skills
 
@@ -69,6 +81,3 @@ A highly motivated and ambitious Computer Systems Engineering graduate with hand
 
 - **Languages:** Urdu, English, Pashto  
 - **Interests:** Photography, Traveling, Playing football
-
----
-
