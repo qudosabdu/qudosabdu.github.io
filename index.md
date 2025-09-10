@@ -15,7 +15,7 @@ I'm deeply committed to learning and innovation, and I enjoy turning complex pro
 
 ## Short Introduction
 
-I’m currently working as a **MERN Stack Developer at [InfinityXDynamics](https://www.infinityxdynamics.com/)**, where I build and maintain full-stack applications involving **interactive UIs**, **3D modeling**, and robust **backend architecture**.
+<!-- I’m currently working as a **MERN Stack Developer at [InfinityXDynamics](https://www.infinityxdynamics.com/)**, where I build and maintain full-stack applications involving **interactive UIs**, **3D modeling**, and robust **backend architecture**. -->
 
 Previously, I completed a **Frontend Development Internship at [TekRevol](https://www.tekrevol.com/)**, where I contributed to enterprise-grade frontend applications using **React.js**, **SCSS**, and **Ant Design**, and collaborated in Agile sprints to deliver production-ready features.
 
