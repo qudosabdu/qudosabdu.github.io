@@ -1,6 +1,6 @@
 ---
 layout: cv
-title: Abdul Qudoos CV - Software Engineer & Full Stack Developer Resume
+title: Abdul Qudoos - Full Stack Software Engineer 
 description: Professional CV of Abdul Qudoos - Full Stack Developer and Software Engineer with expertise in MERN stack, React.js, Node.js, Express.js, MongoDB, AI development, and Agentic AI. Computer Systems Engineering graduate from Dawood University, Karachi.
 keywords: Abdul Qudoos CV, Abdul Qudoos Resume, Engineer Abdul Qudoos, Abdul Qudoos Software Engineer, Full Stack Developer CV, MERN Stack Developer Resume, React Developer CV, Software Engineer Pakistan, Computer Systems Engineer Resume
 author: Abdul Qudoos
