@@ -5,7 +5,8 @@
 
 <body>
 
-  {% if page.title == "Home" %}{% include particles-home.html %}{% endif %}
+  <!-- {% if page.layout == "home" %}{% include particles-home.html %}{% endif %} -->
+  {% if page.title == "home" %}{% include particles-home.html %}{% endif %}
   {% if page.title == "404" %}{% include particles-404.html %}{% endif %}
 
   <div class="container">
@@ -19,7 +20,7 @@
   {% if page.title != "404" %}
   <script src="{{ '/assets/js/darkmode.js' | relative_url }}"></script>
   {% endif %}
-  {% if page.title == "Home" or page.title == "404" %}
+  {% if page.layout == "home" or page.title == "404" %}
   <script src="{{ '/assets/js/particles.min.js' | relative_url }}"></script>
   <script src="{{ '/assets/js/main.js' | relative_url }}"></script>
   {% endif %}

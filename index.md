@@ -1,7 +1,7 @@
 ---
 layout: home
-title: Abdul Qudoos - Full Stack Developer & Software Engineer | Portfolio
-description: Abdul Qudoos - Experienced Full Stack Developer and Software Engineer specializing in MERN stack, React.js, Node.js, Express.js, MongoDB, AI development, and Agentic AI. Computer Systems Engineering graduate from Dawood University of Engineering and Technology, Karachi, Pakistan.
+title: Home
+description: Abdul Qudoos - Experienced Full Stack Developer and Software Engineer specializing in MERN stack, React.js, Node.js, AI development, and Agentic AI. Computer Systems Engineering graduate from Dawood University, Karachi, Pakistan.
 keywords: Abdul Qudoos, Engineer Abdul Qudoos, Abdul Qudoos Software Engineer, Full Stack Developer, MERN Stack Developer, React.js Developer, Node.js Developer, Software Engineer Pakistan, Computer Systems Engineer, Web Developer Karachi, Frontend Developer, Backend Developer, AI Developer
 author: Abdul Qudoos
 image: /assets/jpg/photo.png
