@@ -1,6 +1,9 @@
 ---
 layout: cv
-title: Abdul Qudoos CV
+title: Abdul Qudoos CV - Software Engineer & Full Stack Developer Resume
+description: Professional CV of Abdul Qudoos - Full Stack Developer and Software Engineer with expertise in MERN stack, React.js, Node.js, Express.js, MongoDB, AI development, and Agentic AI. Computer Systems Engineering graduate from Dawood University, Karachi.
+keywords: Abdul Qudoos CV, Abdul Qudoos Resume, Engineer Abdul Qudoos, Abdul Qudoos Software Engineer, Full Stack Developer CV, MERN Stack Developer Resume, React Developer CV, Software Engineer Pakistan, Computer Systems Engineer Resume
+author: Abdul Qudoos
 ---
 
 # Curriculum Vitæ
@@ -11,7 +14,7 @@ title: Abdul Qudoos CV
 
 ## Objective
 
-A highly motivated and ambitious Computer Systems Engineering graduate with hands-on experience in software development and DevOps tools. Seeking opportunities to apply my skills in web development, programming, and modern infrastructure technologies while contributing to innovative projects and dynamic teams.
+Experienced Full Stack Developer with comprehensive expertise in frontend, backend, AI, and agentic AI development. Seeking opportunities to apply my technical skills in software development, web technologies, and cutting-edge AI solutions while contributing to innovative projects and dynamic teams.
 
 ## Education
 
@@ -23,59 +26,48 @@ A highly motivated and ambitious Computer Systems Engineering graduate with hand
 *Pre-Engineering*  
 2016 – 2018
 
-## Academic Coursework
-
-- Introduction to C++  
-- Java (OOP)  
-- Data Structures and Algorithms  
-- Computer Architecture  
-- Database Management Systems (DBMS)  
-- Web Engineering  
-- Data Communication  
-- Operating System
-
-## Final Year Project
-
-### Deep Learning Method for Cardiovascular Disease Prediction using CNN
-
-- **Application:** Developed a deep learning model trained on data from over 70,000 individuals to predict cardiovascular disease with 70% accuracy, integrated with a mobile app for user data input and predictions.  
-- **Teamwork:** Collaborated with a team to build the model. My role focused on developing the mobile application using React Native and connecting it to MongoDB for efficient data handling.
-
 ## Work Experience
 
-<!-- ### MERN Stack Developer Intern at [InfinityXDynamics](https://infinityxdynamics.com/)  — Jun 2025 to Present  
-- Developed responsive web apps using **React.js**, with **Three.js** integration for interactive 3D modeling and visualizations.  
-- Styled modular UI components using **ShadCN** and **Tailwind CSS**, ensuring mobile-first responsiveness.  
-- Built RESTful APIs using **Node.js**, **Express.js**, and connected to **MongoDB**.  
-- Used **Git**, **GitHub** for version control and task tracking. -->
+### Full Stack Developer (Khronix) — Remote, Pakistan  
+October 2025 to Present  
+- Working across multiple technologies, building full-stack applications and functional websites using **HTML, CSS, JavaScript, PHP**, and handling hosting deployments.  
+- Developed **Agentic AI agents** using Google AI SDK and deployed applications on **Google Cloud (GCP)**.  
+- Built responsive and dynamic web apps using **React.js** and **Next.js**; worked with **Express.js** for backend APIs.
 
-<!-- ### Full Stack Developer (Contract) — Apr 2025 to Jun 2025  
-- Built a **Learning Management System (LMS)** from scratch using the **MERN** stack.  
-- Developed a responsive frontend with **React.js** and implemented backend APIs using **Node.js**, **Express.js**, and **MongoDB**.  
-- Integrated frontend with backend to implement user roles, class and section management, subject-teacher assignments, student performance tracking, and assignment features. -->
+### MERN Stack Developer at [InfinityXDynamics](https://infinityxdynamics.com/) — Karachi, Pakistan  
+June 2025 to September 2025  
+- Built responsive and dynamic web applications using **React.js**, integrating **Three.js** for interactive 3D modeling and visualizations.  
+- Styled modular UI components with **TailwindCSS**, ensuring mobile-first responsiveness.  
+- Maintained version control with **Git** and **GitHub** for task tracking.
 
-### Frontend Developer Intern at [Tekrevol](https://www.tekrevol.com/) — Aug 2024 to Present  
-- Developed and maintained responsive web applications using **React.js** and **Ant Design**.  
+### Full Stack Developer (Contract) — Freelance, Karachi, Pakistan  
+April 2025 to September 2025  
+- Developed a **Learning Management System (LMS)** web application handling both frontend and backend development.  
+- Built a responsive frontend with **React.js** and backend APIs using **Node.js, Express.js, and MongoDB**.  
+- Integrated API endpoints with frontend components and implemented key features.
+
+### Frontend Developer Intern at [Tekrevol](https://www.tekrevol.com/) — Karachi, Pakistan  
+August 2024 to November 2024  
+- Developed responsive web applications using **React.js**, leveraging **Ant Design** for UI components.  
 - Built mobile-first features and styled reusable UI components using **SCSS**.  
-- Managed version control using **Git**, following Agile workflows for consistent feature delivery.
+- Managed version control via **Git** and **Bitbucket**, tracked tasks and project progress using **Jira**, following Agile workflows.
 
-### Frontend Intern at [360xpertsolutions](https://360xpertsolutions.com/) — Feb 2024 to Jul 2024  
-- Contributed to responsive web apps using **Next.js**, **Material-UI**, and **Tailwind CSS**.  
-- Managed application state with **Redux Toolkit** and integrated front-end components with backend services using **PostgreSQL**.
-
+### Frontend Intern at [360xpertsolutions](https://360xpertsolutions.com/) — Karachi, Pakistan  
+January 2024 to July 2024  
+- Contributed to responsive web applications using **Next.js**, **Material-UI**, and **Tailwind CSS**.  
+- Managed application state with **Redux Toolkit** and integrated frontend components with backend services using **PostgreSQL**.
 
 ## Skills
 
-- **Programming Languages:** JavaScript, Python  
-- **Frontend Development:** HTML, CSS, Bootstrap, Tailwind CSS, JavaScript, ReactJS, NextJs  
-- **Backend Development:** Node.js, Express.js, FastAPI  
-- **Version Control & Database:** Git, GitHub, Bitbucket, PostgreSQL, NoSQL (MongoDB)  
-- **DevOps Tools:** Linux, Docker, Jenkins, Ansible
+— Programing Languages: JavaScript, TypeScript, Python 
+— Frontend Development: HTML, CSS, TailwindCSS, JavaScript, ReactJS, React Native 
+— Backend Development: NodeJS, ExpressJs, Fast API, Hono 
+— AI & Agentic AI: Google AI SDK, Agentic AI Agents, AI Integration
+— Version Control & Database: Git, GitHub, Bitbucket, Docker, MongoDB, PostgreSQL, Supabase
 
 ## Certifications
 
-- **Meta Front-End Developer (Coursera 2024)**  
-- **Python Programming for Everybody (Coursera 2023)**
+— Certifications:  Meta Front-End Developer (Coursera 2024), Python programming for everybody (Coursera 2023),
 
 ## Additional Information
 

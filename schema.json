@@ -1,0 +1,47 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Person",
+  "name": "Abdul Qudoos",
+  "alternateName": "Engineer Abdul Qudoos",
+  "url": "https://qudosabdu.github.io",
+  "image": "https://qudosabdu.github.io/assets/jpg/photo.png",
+  "sameAs": [
+    "https://www.linkedin.com/in/abdul-qudoos-pk",
+    "https://github.com/qudosabdu",
+    "https://twitter.com/abdulqudos00",
+    "https://www.facebook.com/profile.php?id=100007948066129"
+  ],
+  "jobTitle": "Full Stack Developer & Software Engineer",
+  "worksFor": {
+    "@type": "Organization",
+    "name": "Khronix"
+  },
+  "alumniOf": {
+    "@type": "EducationalOrganization",
+    "name": "Dawood University of Engineering and Technology",
+    "location": "Karachi, Pakistan"
+  },
+  "knowsAbout": [
+    "Full Stack Development",
+    "MERN Stack",
+    "React.js",
+    "Node.js",
+    "Express.js",
+    "MongoDB",
+    "JavaScript",
+    "TypeScript",
+    "Python",
+    "AI Development",
+    "Agentic AI",
+    "Web Development",
+    "Software Engineering",
+    "Computer Systems Engineering"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "addressLocality": "Karachi",
+    "addressCountry": "Pakistan"
+  },
+  "email": "abdulqudoospk737@gmail.com",
+  "telephone": "+92-3329375723"
+}

@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://qudosabdu.github.io/sitemap.xml

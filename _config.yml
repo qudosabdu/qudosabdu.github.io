@@ -1,13 +1,18 @@
 # site settings
 
-title: Abdul Qudoos | web developer
-description: Portfolio and blog showcasing the work of Abdul Qudoos, a web developer.
-taglong: Portfolio and blog of Abdul Qudoos, highlighting web development projects and expertise.
-tagshort: Abdul Qudoos | Portfolio and Blog
+title: Abdul Qudoos | Full Stack Developer & Software Engineer
+description: Abdul Qudoos - Experienced Full Stack Developer and Software Engineer specializing in MERN stack, React.js, Node.js, AI development, and Agentic AI. Computer Systems Engineering graduate from Dawood University, Karachi, Pakistan.
+taglong: Abdul Qudoos - Full Stack Developer, Software Engineer, MERN Stack Developer, React.js Expert, Node.js Developer, AI Engineer
+tagshort: Abdul Qudoos | Software Engineer
 url: https://qudosabdu.github.io
 baseurl: ""
 permalink: pretty
 repo: https://github.dev/qudosabdu/qudosabdu.github.io
+
+# SEO settings
+keywords: Abdul Qudoos, Engineer Abdul Qudoos, Abdul Qudoos Software Engineer, Full Stack Developer, MERN Stack Developer, React Developer, Node.js Developer, Software Engineer Pakistan, Computer Systems Engineer, Web Developer Karachi, AI Developer, Agentic AI
+lang: en_US
+locale: en_US
 
 # author settings
 

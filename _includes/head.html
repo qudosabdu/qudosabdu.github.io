@@ -12,8 +12,55 @@
     {% endif %}
   </title>
 
-  <meta name="description"
-    content="Abdul Qudoos - MERN Stack Developer. Currently working with React.js. Check out my portfolio hosted at qudosabdu.github.io.">
+  <meta name="description" content="{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}">
+  <meta name="keywords" content="{% if page.keywords %}{{ page.keywords }}{% else %}{{ site.keywords }}{% endif %}">
+  <meta name="author" content="{{ site.author.name }}">
+  
+  <!-- Open Graph / Facebook -->
+  <meta property="og:type" content="website">
+  <meta property="og:url" content="{{ page.url | absolute_url }}">
+  <meta property="og:title" content="{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}">
+  <meta property="og:description" content="{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}">
+  <meta property="og:image" content="{% if page.image %}{{ page.image | absolute_url }}{% else %}{{ site.photo | absolute_url }}{% endif %}">
+  
+  <!-- Twitter -->
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:url" content="{{ page.url | absolute_url }}">
+  <meta name="twitter:title" content="{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}">
+  <meta name="twitter:description" content="{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}">
+  <meta name="twitter:image" content="{% if page.image %}{{ page.image | absolute_url }}{% else %}{{ site.photo | absolute_url }}{% endif %}">
+  
+  <!-- Canonical URL -->
+  <link rel="canonical" href="{{ page.url | absolute_url }}">
+  
+  <!-- Language and Locale -->
+  <meta property="og:locale" content="{{ site.locale }}">
+  <html lang="{{ site.lang }}">
+  
+  <!-- JSON-LD Structured Data -->
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "Person",
+    "name": "Abdul Qudoos",
+    "alternateName": "Engineer Abdul Qudoos",
+    "url": "{{ site.url }}",
+    "image": "{{ site.photo | absolute_url }}",
+    "sameAs": [
+      "https://www.linkedin.com/in/{{ site.social.linkedin }}",
+      "https://github.com/{{ site.social.github }}",
+      "https://twitter.com/{{ site.social.twitter }}"
+    ],
+    "jobTitle": "Full Stack Developer & Software Engineer",
+    "alumniOf": {
+      "@type": "EducationalOrganization",
+      "name": "Dawood University of Engineering and Technology",
+      "location": "Karachi, Pakistan"
+    },
+    "knowsAbout": ["Full Stack Development", "MERN Stack", "React.js", "Node.js", "AI Development", "Software Engineering"],
+    "email": "{{ site.author.email }}"
+  }
+  </script>
 
   <link rel="stylesheet" href="{{ '/assets/css/bootstrap.min.css' | relative_url }}">
   <link rel="stylesheet" href="{{ '/assets/css/open-color.min.css' | relative_url }}">
