@@ -10,7 +10,7 @@ author: Abdul Qudoos
 
 # Abdul Qudoos
 
-**Phone:** +92-3329375723 • **Email:** abdulqudoospk737@gmail.com • [LinkedIn](https://www.linkedin.com/in/abdul-qudoos-pk/) • [GitHub](https://github.com/qudosabdu) • [Portfolio](https://abdudev.study/)
+**Phone:** +92-3329375723 • **Email:** abdulqudospk@gmail.com • [LinkedIn](https://www.linkedin.com/in/abdul-qudoos-pk/) • [GitHub](https://github.com/qudosabdu) • [Portfolio](https://abdulqudoos.dev/)
 
 ## Objective
 
@@ -20,7 +20,7 @@ Experienced Full Stack Developer with comprehensive expertise in frontend, backe
 
 **DAWOOD UNIVERSITY OF ENGINEERING AND TECHNOLOGY**, Karachi, Pakistan  
 *Bachelor of Engineering (BE) - Computer System Engineering*  
-2020 – August 2024
+2020 – December 2024 
 
 **OXFORD SCIENCE SCHOOL AND COLLEGE**, Karak, Pakistan  
 *Pre-Engineering*  
@@ -29,7 +29,7 @@ Experienced Full Stack Developer with comprehensive expertise in frontend, backe
 ## Work Experience
 
 ### Full Stack Developer (Khronix) — Remote, Pakistan  
-October 2025 to Present  
+October 2025 to June 2026  
 - Working across multiple technologies, building full-stack applications and functional websites using **HTML, CSS, JavaScript, PHP**, and handling hosting deployments.  
 - Developed **Agentic AI agents** using Google AI SDK and deployed applications on **Google Cloud (GCP)**.  
 - Built responsive and dynamic web apps using **React.js** and **Next.js**; worked with **Express.js** for backend APIs.
